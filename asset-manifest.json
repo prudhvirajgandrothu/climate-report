@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/climate-report/static/css/main.4ed83c12.css",
+    "main.js": "/climate-report/static/js/main.c566b6fa.js",
+    "static/js/787.e29e7ba0.chunk.js": "/climate-report/static/js/787.e29e7ba0.chunk.js",
+    "index.html": "/climate-report/index.html",
+    "main.4ed83c12.css.map": "/climate-report/static/css/main.4ed83c12.css.map",
+    "main.c566b6fa.js.map": "/climate-report/static/js/main.c566b6fa.js.map",
+    "787.e29e7ba0.chunk.js.map": "/climate-report/static/js/787.e29e7ba0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed83c12.css",
+    "static/js/main.c566b6fa.js"
+  ]
+}
